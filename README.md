@@ -1,4 +1,4 @@
-# freelance_job_Service_To_Handle_Device
+# Service to Handle Device
 A device profile should be a record containing the following information:
 
 Radio ID (a unique integer)
